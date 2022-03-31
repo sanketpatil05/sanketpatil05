@@ -8,7 +8,7 @@
 - 💬 Ask me about **react, node.js , express.js , javascript**
 
 - 📫 How to reach me **patilsanket209@gmail.com**
--  Portfolio [https://vercel.com/sanketpatil05/sanket-patil]
+-  Portfolio [https://sanket-patil.vercel.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
